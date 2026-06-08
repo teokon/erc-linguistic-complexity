@@ -1,6 +1,5 @@
 # Linguistic Complexity as an Explainability Lens for ERC
 
-Research code for the paper submitted to **BlackboxNLP @ EMNLP 2026**.
 
 ---
 
